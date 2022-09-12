@@ -1,5 +1,9 @@
 # Connect4 Game
 
+![Picture of Game](https://raw.githubusercontent.com/tmt16/connect4/master/Preview/Preview.png)
+
+![Picture of Completed Game](https://raw.githubusercontent.com/tmt16/connect4/master/Preview/Preview1.png)
+
 In this exercise, you plan & help code a Connect Four game in Javascript.
 
 Connect Four is played on a grid, 7 wide by 6 deep, with two players, 1 (red) and 2 (blue). The players alternate turns, dropping a piece of their color in the top of a column. The piece will fall down to the further-down unoccupied slot.
