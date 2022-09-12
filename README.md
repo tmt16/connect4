@@ -1,7 +1,5 @@
 # Connect4 Game
 
-![Picture of Game](https://raw.githubusercontent.com/tmt16/connect4/master/Preview/Preview.png)
-
 ![Picture of Completed Game](https://raw.githubusercontent.com/tmt16/connect4/master/Preview/Preview1.png)
 
 In this exercise, you plan & help code a Connect Four game in Javascript.
